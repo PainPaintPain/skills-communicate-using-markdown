@@ -1,6 +1,12 @@
 # Daily Learning
 
 ## Morning Planning
+- _alt_ specifies text
+- _src_ specifies the source of image
+- _width_ & _height_ specifies the size of image
+- _align_ specifies the location (left or right)
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
 ## Review
 
